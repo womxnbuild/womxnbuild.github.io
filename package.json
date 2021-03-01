@@ -1,0 +1,14 @@
+{
+  "name": "womxn-build-website",
+  "version": "1.0.0",
+  "description": "A website for 'womxn build' using nodejs and npm. what fun. we've come a full cycle.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "womxnbuild"
+  ],
+  "author": "",
+  "license": "ISC"
+}
