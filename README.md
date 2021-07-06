@@ -12,7 +12,7 @@ Here are our socials:
 - [repl.it](https://repl.it/@womxnbuild)
 - [Dev.to](https://dev.to/womxnbuild)
 - [GitHub](https://github.com/womxnbuild)
-- [Twitter](https://dev.to/womxnbuild)
+- [Twitter](https://twitter.com/womxnbuild)
 - [Instagram](https://www.instagram.com/womxnbuild/)
 - [Website](https://womxnbuild.github.io)
 
